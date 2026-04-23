@@ -1,0 +1,27 @@
+{
+  "DEFAULT_USER_EMAIL": "gciteli@ustravel.org",
+  "DEFAULT_BOOTH_YEAR": "2026",
+  "DEFAULT_IMPORT_SOURCE": "IPW",
+  "MAX_DETECTED_AUDIENCE_LEN": 61,
+  "AUDIENCE_SEGMENT_KEYWORDS": [
+    "attendee",
+    "buyer",
+    "exhibitor",
+    "media"
+  ],
+  "AUDIENCE_SEGMENT_EXCLUDED_TERMS": [
+    "(Coded)"
+  ],
+  "VALID_YEARS": [
+    "26",
+    "27",
+    "2026",
+    "2027"
+  ],
+  "SHOW_TRANSFORMING_FILES": false,
+  "SHOW_CAPTURED_VALUES": false,
+  "SHOW_PROCESSING_COMPANY_CLEANUP": false,
+  "SHOW_PROCESSING_COMPANY_BOOTH": false,
+  "SHOW_PROCESSING_INDIVIDUAL_BOOTH_CREDENTIALS": false,
+  "SHOW_PROCESSING_CONTACT": false
+}
